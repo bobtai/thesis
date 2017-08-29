@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb

@@ -1,0 +1,44 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyLibrary\bin\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyLibrary\obj\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyLibrary\MyLibrary\obj\Release\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bob\Desktop\code0323\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\code0323\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0323\MyLibrary\MyLibrary\obj\Release\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bob\Desktop\code0323\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\code0323\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\obj\Release\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\code0325\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\code0331\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\obj\Release\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\code0331\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\MyProject\MyLibrary\MyLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MyProject\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\MyProject\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Documents and Settings\Administrator\桌面\MyProject\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\MyProject\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\Bob\Desktop\MyProject\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
