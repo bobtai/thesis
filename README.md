@@ -10,7 +10,7 @@
 
 程式架構圖如下：
 
-![alt tag](https://drive.google.com/file/d/0B7lm0JGIKIhGd1R4QXFPX29xWUk/view)
+![alt tag](https://raw.githubusercontent.com/bobtai/thesis/master/%E7%A8%8B%E5%BC%8F/%E7%A8%8B%E5%BC%8F%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 
 ### MyLibrary
 
