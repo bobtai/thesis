@@ -10,7 +10,7 @@
 
 程式架構圖如下：
 
-![alt tag](https://raw.githubusercontent.com/bobtai/thesis/master/%E7%A8%8B%E5%BC%8F/%E7%A8%8B%E5%BC%8F%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
+![alt tag](https://raw.githubusercontent.com/bobtai/thesis/master/%E7%A8%8B%E5%BC%8F/architecture.png)
 
 ### MyLibrary
 
@@ -18,11 +18,11 @@
 
 ### MultiCharts
 
-首先，技術指標.pln 根據資料集求出 KD、RSA 等指標值，
+首先，技術指標.pln 根據資料集求出 KD、RSI 和 BIAS 等指標值，
 
-其後，投資策略.pln 會參考 MyLibrary.dll 的演算法 和 技術指標.pln 求出的指標值，
+其後，投資策略.pln 會引用 MyLibrary.dll 的演算法 和 技術指標.pln 求出的指標值，
 
-進行期貨交易，據以訓練和測試機械學習模型，目的是找出一組最佳的投資策略。
+進行期貨交易，據以訓練和測試機械學習模型，最後目的是找出一組最賺錢的投資策略。
 
 ## 簡報
 
