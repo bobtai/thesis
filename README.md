@@ -1,5 +1,4 @@
-#
-碩士論文
+# 碩士論文
 
 應用 [機械學習 \(Machine Learning\)](https://zh.wikipedia.org/wiki/机器学习)，
 
